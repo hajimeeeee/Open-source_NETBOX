@@ -8,6 +8,12 @@ Nous sommes une ESN, LYMA Consulting, et nous avons pour projet la refonte compl
 
 Ce client possède deux sites, un sur Bordeaux et l'autre à Pau.
 
+Voici les deux schéma réseau :
+
+## Bordeaux
+https://github.com/hajimeeeee/Open-source_NETBOX/blob/main/screen/schema_bdx.PNG
+## Pau
+https://github.com/hajimeeeee/Open-source_NETBOX/blob/main/screen/schema_pau.PNG
 
 NetBox est un outil open-source de gestion des infrastructures qui permet aux équipes informatiques de suivre et de gérer efficacement , les équipements réseau, les serveurs, les adressages IP les racks et autres éléments de leur infrastructure. fournit une base de données centralisée pour stocker des informations sur les ressources réseau et une interface web pour visualiser et gérer ces ressources.
 
@@ -18,6 +24,7 @@ cd netbox-docker
 ```
 
 Ensuite, il faut ajouter la configuration suivante dans le fichier docker-compose.override.yml
+![image](https://github.com/hajimeeeee/Open-source_NETBOX/blob/main/screen/docker-compose_override_yml.PNG)
 
 docker-compose_override_yml.png
 
