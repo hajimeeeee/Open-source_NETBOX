@@ -26,7 +26,9 @@ git clone -b release https://github.com/netbox-community/netbox-docker.git
 cd netbox-docker
 ```
 
-Ensuite, il faut ajouter la configuration suivante dans le fichier docker-compose.override.yml
+Ensuite, il faut ajouter la configuration suivante dans le fichier docker-compose.override.yml :
+
+
 ![image](https://github.com/hajimeeeee/Open-source_NETBOX/blob/main/screen/docker-compose_override_yml.PNG)
 
 
